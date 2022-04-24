@@ -32,3 +32,21 @@ Screenshots:
 <img width="899" alt="image" src="https://user-images.githubusercontent.com/69675852/164981849-5b8581cf-dab6-4992-ae1c-467ab9e817e3.png">
 
 <img width="820" alt="image" src="https://user-images.githubusercontent.com/69675852/164981875-a8fa7eae-21cf-4920-9de5-7bfac4982214.png">
+
+
+Release History:
+v0.0.0 (27/02/2021)
+
+Initialization:
+[#1] Added basic designs of all planned HTML pages
+v0.1.0 (28/02/2021)
+
+Enhancements:
+[#2] Designed all HTML pages
+[#3] Added JS and connected pages to JsonPowerDB
+[#4] Tested all pages
+v0.1.1 (01/03/2021)
+
+Enhancements:
+[#5] Added a README.md file
+[#6] Few CSS changes
